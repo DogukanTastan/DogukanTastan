@@ -16,7 +16,6 @@ My name is **Dogukan**. I am Student at [GTU](https://www.gtu.edu.tr/?languageId
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/DogukanTastan)
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/DogukanTastan/)
 
 
 
