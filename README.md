@@ -9,7 +9,7 @@ My name is **Dogukan**. I am Student at [GTU](https://www.gtu.edu.tr/?languageId
 - 📫 How to reach me on [LinkedIn](https://linkedin.com/in/dogukantastan/) 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/dogukantastan29/)
+
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=DogukanTastan&show_icons=true&theme=radical)
