@@ -10,10 +10,16 @@ My name is **Dogukan**. I graduated from [GTU](https://www.gtu.edu.tr/?languageI
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DogukanTastan&show_icons=true&theme=radical)
+![Dogukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DogukanTastan&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
 
 ---
 
-### GitHub Trophies
+### Top Languages
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DogukanTastan&row=1)](https://github.com/DogukanTastan)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanTastan&layout=compact&theme=tokyonight)
+
+---
+
+### Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/DogukanTastan/count.svg)
