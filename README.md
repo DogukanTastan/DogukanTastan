@@ -1,7 +1,7 @@
 #
 ### Hi there 👋
 
-My name is **Dogukan**. I am Student at [GTU](https://www.gtu.edu.tr/?languageId=2)
+My name is **Dogukan**. I graduated from [GTU](https://www.gtu.edu.tr/?languageId=2)
 
 
 - 🌱 I love to learn!
